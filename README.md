@@ -38,6 +38,11 @@ Welcome to Memory Game! This Java-based project offers an engaging memory-testin
 <img width="479" alt="Screenshot2" src="https://github.com/akshita60/Memory-Game/assets/122316097/c76fe20b-6c71-4f7d-917c-d377ba1fbe9f">
 <img width="479" alt="Screenshot3" src="https://github.com/akshita60/Memory-Game/assets/122316097/398b042e-b7ca-4fcb-a0f4-3c28e3e027f6">
 
+## Technologies Used:
+  - Java
+  - Java Swing
+  - Java AWT
+    IDE: VS Code
 ## Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests for enhancements or bug fixes.
