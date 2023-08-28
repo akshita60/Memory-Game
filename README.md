@@ -42,7 +42,7 @@ Welcome to Memory Game! This Java-based project offers an engaging memory-testin
   - Java
   - Java Swing
   - Java AWT
-    IDE: VS Code
+  - IDE: VS Code
 ## Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests for enhancements or bug fixes.
