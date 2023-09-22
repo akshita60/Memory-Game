@@ -35,8 +35,8 @@ Welcome to Memory Game! This Java-based project offers an engaging memory-testin
 
 ## Screenshots
 <img width="479" alt="Screenshot1" src="https://github.com/akshita60/Memory-Game/assets/122316097/7d43bae0-feca-4130-a0a3-d56d194a7001">
-<img width="479" alt="Screenshot2" src="https://github.com/akshita60/Memory-Game/assets/122316097/c76fe20b-6c71-4f7d-917c-d377ba1fbe9f">
-<img width="479" alt="Screenshot3" src="https://github.com/akshita60/Memory-Game/assets/122316097/398b042e-b7ca-4fcb-a0f4-3c28e3e027f6">
+<img width="484" alt="image" src="https://github.com/akshita60/Memory-Game/assets/122316097/a2231c88-52c0-40f1-95ce-10c2f7909362">
+<img width="484" alt="image" src="https://github.com/akshita60/Memory-Game/assets/122316097/0c4e131f-d251-4039-9e6b-d932f24af0b6">
 
 ## Technologies Used:
   - Java
